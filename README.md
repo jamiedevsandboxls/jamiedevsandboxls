@@ -6,7 +6,6 @@
 
 <img src="http://img.shields.io/badge/-opengl-black?style=for-the-badge&logo=opengl" style="margin:5px" /><img src="http://img.shields.io/badge/-qt-black?style=for-the-badge&logo=qt" style="margin:5px" />
 
-<code><img src="https://github.com/github/explore/blob/master/topics/javafx/javafx.png?raw=true" height="32" style="margin:5px" /></code>
 
 ### Tools:
 
